@@ -1,10 +1,16 @@
-# Monojet signatures from gluino and squark decays
+# Monojet signatures from gluino and squark decays [![DOI](https://zenodo.org/badge/645595331.svg)](https://zenodo.org/badge/latestdoi/645595331)
+
 
 ## Info:
-This repository contains data used in the project "Monojet signatures from gluino and squark decays", the results of which were published in [JHEP 10 (2022) 150](https://inspirehep.net/files/4d0485ae407de471528f3e0ec838bfc9)
+This repository contains data used in the project "Monojet signatures from gluino and squark decays", the results of which were published in [JHEP 10 (2022) 150](https://inspirehep.net/files/4d0485ae407de471528f3e0ec838bfc9).
 
 ## Authors: 
-Iñaki Lara(Warsaw U.), Trygve Buanes(HVL, Norway), Rafał Masełek(Warsaw U.), Mihoko M. Nojiri(KEK, Tsukuba and Sokendai, Tsukuba and Tokyo U., IPMU), Krzysztof Rolbiecki(Warsaw U.), Kazuki Sakurai(Warsaw U.)
+1. Iñaki Lara(Warsaw U.)
+2. Trygve Buanes(HVL, Norway)
+3. Rafał Masełek(Warsaw U.)
+4. Mihoko M. Nojiri(KEK, Tsukuba and Sokendai, Tsukuba and Tokyo U., IPMU)
+5. Krzysztof Rolbiecki(Warsaw U.)
+6. Kazuki Sakurai(Warsaw U.)
 
 ## Abstract:
 We study the monojet and dijet channels at the LHC as a tool for searching for squarks and
@@ -23,6 +29,7 @@ We recast existing monojet and dijet analyses and find a non-trivial exclusion l
 squark-gluino mass plane in this scenario.
 
 ## Content description:
+- license.html -- information about the license
 - citation.bib -- BibTex file to be used when citing the article
 - MG5_files -- example [MadGraph5](http://madgraph.phys.ucl.ac.be/) files
 - cross-sections -- sparticle production cross-section data
