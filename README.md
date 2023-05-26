@@ -1,4 +1,5 @@
-# Monojet signatures from gluino and squark decays [![DOI](https://zenodo.org/badge/645595331.svg)](https://zenodo.org/badge/latestdoi/645595331)[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)]
+# Monojet signatures from gluino and squark decays 
+[![DOI](https://zenodo.org/badge/645595331.svg)](https://zenodo.org/badge/latestdoi/645595331)![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
 
 ## Info:
